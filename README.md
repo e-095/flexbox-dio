@@ -1,2 +1,3 @@
 # flexbox-dio
-Link para o GitLab de Karen Santos.
+
+https://gitlab.com/karensantos/project-flexbox-dio
